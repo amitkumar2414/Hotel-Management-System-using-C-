@@ -1,0 +1,39 @@
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Hotel Management.exe.config
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Hotel Management.exe
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Hotel Management.pdb
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csproj.AssemblyReference.cache
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.csproj.CoreCompileInputs.cache
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.exe
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Management.pdb
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Google.Protobuf.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\MySql.Data.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Buffers.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.IO.Pipelines.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Memory.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\ZstdSharp.dll
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Google.Protobuf.pdb
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Google.Protobuf.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\MySql.Data.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Buffers.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.IO.Pipelines.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Memory.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\amitk\source\repos\Hotel Management\Hotel Management\obj\Debug\Hotel Ma.07462F3B.Up2Date
